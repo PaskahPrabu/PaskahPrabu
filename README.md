@@ -1,7 +1,8 @@
  # Hai there 👋
-My name is **Paskah Prabu Wahyu Martinus**, but you can call me **Prabu**.\
+ 
+My name is **Paskah Prabu Wahyu Martinus**, but you can call me **Prabu**.
 
-Now i'm still studying in Electrical Engineering at Diponegoro University Universitas .\
+Now i'm still studying in Electrical Engineering at Diponegoro University Universitas .
 
 Feel free to visit my [Linkedin](https://www.linkedin.com/in/paskahprabu21/).
 
