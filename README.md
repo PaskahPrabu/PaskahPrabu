@@ -2,7 +2,7 @@
  
 My name is **Paskah Prabu Wahyu Martinus**, but you can call me **Prabu**.
 
-Now i'm still studying in Electrical Engineering at Diponegoro University.
+I'm Electrical Engineering Fresh Graduate at Diponegoro University.
 
 Feel free to visit my [Linkedin](https://www.linkedin.com/in/paskahprabu21/).
 
