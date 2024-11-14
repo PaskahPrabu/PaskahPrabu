@@ -1,4 +1,4 @@
- # Hai there 👋
+ # Hi there 👋
  
 My name is **Paskah Prabu Wahyu Martinus**, but you can call me **Prabu**.
 
